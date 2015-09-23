@@ -7,13 +7,11 @@ var runSequence = require('run-sequence');
 var less = require('gulp-less');
 var source = require('vinyl-source-stream');
 var reactify = require('reactify');
-var glob = require('glob');
 var Server = require('karma').Server;
-var server = require('./server');
-var config = require('./config')
+var config = require('./config');
 var pm2 = require('pm2');
 
-var testFilesJs = "./public/test/**/*.spec.js";
+
 var karmaConfigJs =  __dirname +"/karma.conf.js";
 
 gulp.task('js', function() {
