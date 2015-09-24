@@ -27,7 +27,7 @@ gulp test
 
 ## Demo
 
-You can check the coverage results [here] (https://react-karma-coverage-myjournal-1.c9.io/PhantomJS%201.9.8%20(Linux%200.0.0)/index.html)
+You can check the coverage results [here] (https://react-karma-coverage-myjournal-1.c9.io/PhantomJS%201.9.8%20(Linux%200.0.0)/index.html) for this [sample project] (https://github.com/ramanathanMuthuraman/React-Duck2Go) 
 
 ## License
 
