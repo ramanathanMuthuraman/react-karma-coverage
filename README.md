@@ -1,5 +1,8 @@
 # react-karma-coverage
-Javascript unit testing is an integral part of any web application development. With Javascript's Sonic Boom we have lots of options(frameworks/libraries) to choose from. In this repo we will be creting test suites for a sample React JS project with the code-coverage measurement.
+Javascript unit testing is an integral part of any web application, but how do you know that you've tested the code that matters? Did you cover the most important components? Did you test the sad path? The edge cases? 
+
+Istanbul is here to do the job. In this repo we will be creating test suites and its coverage report for a sample React JS project. Below is the technology stack used.
+
 * [React JS](https://facebook.github.io/react/)
 * [Mocha](https://mochajs.org/)
 * [Karma](http://karma-runner.github.io/0.13/index.html)
